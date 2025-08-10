@@ -1,4 +1,5 @@
 # GPA Calculator (HTML/CSS/JS)
+<img width="894" height="281" alt="image" src="https://github.com/user-attachments/assets/a6f7cd3b-1294-43ad-b91e-a44d75c52354" />
 
 A simple, responsive **GPA Calculator** that runs entirely in your browser using pure HTML, CSS, and JavaScript.
 
